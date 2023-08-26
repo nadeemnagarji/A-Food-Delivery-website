@@ -70,22 +70,29 @@
 }
 .aboutus{
     /* background-color: blue; */
+    width: 100%;
     display: flex;
     justify-content: space-between;
+    
 
 }
 .info{
     /* background-color: rgb(218, 200, 200); */
-    width: 30%;
+    width: 25%;
+    
     
 }
 .chicken{
     /* background-color: red; */
     width: 25%;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
 }
 .scooter{
     /* background-color: rgb(29, 117, 76); */
     width:25%;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
 }
 .imggg{
     width: 50%;
@@ -93,6 +100,13 @@
 .selfie{
     /* background-color: rgb(78, 17, 148); */
     width: 25%;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.pics{
+    display: flex;
+    /* background-color: #F94A3D; */
+    justify-content: space-evenly;
 }
 .cards{
 display: flex;
