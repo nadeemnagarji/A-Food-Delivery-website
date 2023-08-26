@@ -78,7 +78,7 @@
 }
 .info{
     /* background-color: rgb(218, 200, 200); */
-    width: 25%;
+    width: 35%;
     
     
 }
@@ -113,6 +113,35 @@ display: flex;
 flex-direction: column;
 align-items: center;
 justify-content:space-between;
+}
+.try {
+    /* background-color: red; */
+    margin-bottom: 100px;
+}
+.food-items{
+    padding-top: 50px;
+    width: 80%;
+    /* background-color: blue; */
+    position: relative;
+}
+.crispy,.fries ,.noodles,.burger{
+  width: 20%;
+  /* background-color: antiquewhite; */
+}
+.noodlesimg{
+    position: absolute;
+    top:-5px;
+    right:350px;
+    
+}
+
+.noodles{
+    height: 100%;
+    /* background-color: red; */
+    z-index: 6;
+}
+.color{
+    color: #F94A3D;
 }
 /*Orange Color
 #F94A3D*
