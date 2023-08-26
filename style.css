@@ -1,23 +1,105 @@
 
-
+.head{
+    background-color: #f94a3d0a;
+}
 #signin{
     color: white;
     background-color: #F94A3D;
     text-align: center;
     font-size: 1rem;
 }
+.left{
+    /* background-color: red; */
+
+}
 .herotext{
     /* background-color: green; */
+}
+.hero{
+    /* background-color: blue; */
+    height: 65vh;
+}
+.hero img{
+    /* background-color: green; */
+    height: 95%;
+    align-self: self-end;
+  
+
+    
+
 }
 .hero-info{
     /* background-color: red; */
     width: 70%;
+
+
+    
 }
 .popcorn{
-    background-color: blue;
+    background-color: #FDECEC;
+    width: 45%;
+
+    align-items: center;
+    justify-content: space-between;
+    overflow:hidden;
+    margin: 0;
+    padding: 5px;
+    border-radius: 5px;
+    /* overflow: hidden;  */
+
 }
+.popcorn p{
+
+    color:#F94A3D;
+    font-weight: 500;
+    font-size: larger;
+    margin: 0;
+    
+    
+}
+.popcorn img{
+    background-color: white;
+   
+    border-radius: 100px;
+    height: 100%;
+  
+}
+
 #color{
-    color:#F94A3D
+    color:#F94A3D;
+}
+.aboutus{
+    /* background-color: blue; */
+    display: flex;
+    justify-content: space-between;
+
+}
+.info{
+    /* background-color: rgb(218, 200, 200); */
+    width: 30%;
+    
+}
+.chicken{
+    /* background-color: red; */
+    width: 25%;
+}
+.scooter{
+    /* background-color: rgb(29, 117, 76); */
+    width:25%;
+}
+.imggg{
+    width: 50%;
+}
+.selfie{
+    /* background-color: rgb(78, 17, 148); */
+    width: 25%;
+}
+.cards{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content:space-between;
 }
 /*Orange Color
-#F94A3D*/
+#F94A3D*
+ #FDECEC;/
