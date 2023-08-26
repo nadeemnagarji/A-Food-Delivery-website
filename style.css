@@ -1,0 +1,23 @@
+
+
+#signin{
+    color: white;
+    background-color: #F94A3D;
+    text-align: center;
+    font-size: 1rem;
+}
+.herotext{
+    /* background-color: green; */
+}
+.hero-info{
+    /* background-color: red; */
+    width: 70%;
+}
+.popcorn{
+    background-color: blue;
+}
+#color{
+    color:#F94A3D
+}
+/*Orange Color
+#F94A3D*/
